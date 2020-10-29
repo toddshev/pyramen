@@ -1,2 +1,2 @@
 # Module 2 Homework
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/toddshev/python-homework/master?filepath=https%3A%2F%2Fgithub.com%2Ftoddshev%2Fpython-homework%2Fblob%2Fmaster%2FPyRamen%2Fpyramen.py)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/toddshev/python-homework/master)
